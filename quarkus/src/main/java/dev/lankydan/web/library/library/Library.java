@@ -1,12 +1,12 @@
-package dev.lankydan.web.people;
+package dev.lankydan.web.library.library;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-@Path("/hello")
-public class PersonResource {
+@Path("/library")
+public class Library{
 
     @GET
     @Produces(MediaType.TEXT_PLAIN)
