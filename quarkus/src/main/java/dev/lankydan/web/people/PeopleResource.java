@@ -10,7 +10,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
 @Path("/hello")
-public class PersonResource {
+public class PeopleResource {
 
     @GET //1. URI path of current resource
     @Produces(MediaType.TEXT_PLAIN) // 2. Define the type of return object 

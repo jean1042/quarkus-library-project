@@ -1,0 +1,14 @@
+{
+  "first_name": "Jiyoon",
+  "last_name": "Park",
+  "id": "jean1042",
+  "password": "slhShaco123",
+  "addr": "100 Sejongno, Jongno-gu, SEOUL 03154, SOUTH KOREA",
+  "borrowed_books": {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "isbn": 9780684801223,
+    "date_borrowed": "05/24/2021",
+    "return_deadline": "07/24/2021"
+  }
+}
